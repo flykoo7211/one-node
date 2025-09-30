@@ -6,6 +6,6 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "vevc",
+  "author": "flykoo7211",
   "license": "MIT"
 }
